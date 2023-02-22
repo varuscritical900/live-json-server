@@ -13,6 +13,9 @@
   },
   "author": "",
   "license": "ISC",
+  "depenencies":{
+    "json-server":"^0.17.1"
+  },
   "bugs": {
     "url": "https://github.com/varuscritical900/live-json-server/issues"
   },
