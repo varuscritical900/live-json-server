@@ -17,8 +17,18 @@
       "title": "Web Dev",
       "mobile": "$700",
       "photo": "https://images.pexels.com/photos/2929906/pexels-photo-2929906.jpeg",
-      "companyName": "KodeGo",
-      "department": "Finance"
+      "companyName": "Machu Picchu is an ancient Incan city located in the Andes Mountains of Peru. It is one of the most famous and iconic archaeological sites in the world, and is often referred to as the Lost City of the Incas.",
+      "department": "Peru"
+    },
+    {
+      "id": 1003,
+      "destTitle": "Punta Cana",
+      "email": "Mexico",
+      "title": "Web Dev",
+      "mobile": "$900",
+      "photo": "https://images.pexels.com/photos/2598675/pexels-photo-2598675.jpeg",
+      "companyName": "Punta Cana is a popular resort town located on the eastern coast of the Dominican Republic. Known for its stunning white sand beaches, crystal-clear turquoise waters, and warm tropical climate, Punta Cana is a paradise for beach lovers and outdoor enthusiasts.",
+      "department": "Mexico"
     }
   ],
   "department": [
@@ -32,7 +42,7 @@
     },
     {
       "id": 3,
-      "departmentName": "Canada"
+      "departmentName": "Mexico"
     },
     {
       "id": 4,
@@ -40,7 +50,7 @@
     },
     {
       "id": 5,
-      "departmentName": "ICT"
+      "departmentName": "Peru"
     }
   ],
   "excursion": [
